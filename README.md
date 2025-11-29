@@ -2,8 +2,7 @@
 
 **`Aspiring Dev — Always Learning · Always Building`**
 
-I’m passionate about crafting interactive experiences with code and design. I enjoy turning ideas into working, visual reality.  
-I’m keen on challenges, problem-solving, and constantly expanding my knowledge — from frontend and scripting to design tools and creative coding. I’m currently studying at university, where I’ll soon dive deeper into backend development.
+I enjoy turning ideas into real, working projects and experimenting with both design and code. I’m currently expanding into backend development while continuing to improve my frontend and creative coding skills. I like building, breaking, fixing, and learning new technologies as I go.
 
 ---
 
@@ -15,7 +14,8 @@ I’m keen on challenges, problem-solving, and constantly expanding my knowledge
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="p5.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/p5js/p5js-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg#gh-dark-mode-only" />
 <img align="left" alt="Vite" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" />
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" />
