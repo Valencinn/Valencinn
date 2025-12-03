@@ -16,6 +16,7 @@ I enjoy turning ideas into real, working projects and experimenting with both de
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg#gh-dark-mode-only" />
+<img align="left" alt="FastAPI" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
 <img align="left" alt="Vite" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" />
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" />
@@ -45,5 +46,5 @@ More projects coming soon as I keep learning and building.
 
 ### 📈 GitHub Stats
 
-![Valencinn’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Valencinn&show_icons=true&theme=gruvbox)
+![Valencinn’s GitHub stats][(https://github-readme-stats.vercel.app/api?username=Valencinn&show_icons=true&theme=gruvbox)](https://github-readme-stats.vercel.app/api?username=valencinn)
 
