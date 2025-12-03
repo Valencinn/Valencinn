@@ -46,5 +46,7 @@ More projects coming soon as I keep learning and building.
 
 ### 📈 GitHub Stats
 
-![Valencinn’s GitHub stats][(https://github-readme-stats.vercel.app/api?username=Valencinn&show_icons=true&theme=gruvbox)](https://github-readme-stats.vercel.app/api?username=valencinn)
+https://github-readme-stats.vercel.app/api?username=valencinn
+
+
 
