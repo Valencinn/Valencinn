@@ -24,7 +24,7 @@ I enjoy turning ideas into real, working projects and experimenting with both de
 <img align="left" alt="Arduino" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
 <br />
 
-###Right now learning Rust
+### Right now learning Rust
 
 
 
