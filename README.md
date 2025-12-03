@@ -46,7 +46,7 @@ More projects coming soon as I keep learning and building.
 
 ### 📈 GitHub Stats
 
-https://github-readme-stats.vercel.app/api?username=valencinn
+[https://github-readme-stats.vercel.app/api?username=valencinn](https://github-readme-stats-git-masterorg.vercel.app/api?username=valencinn)
 
 
 
