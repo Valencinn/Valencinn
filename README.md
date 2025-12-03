@@ -28,11 +28,15 @@ I enjoy turning ideas into real, working projects and experimenting with both de
 
 ---
 
-### 🎯 Featured Project
+### 🎯 Featured Projects
 
 #### [Checkers-AI](https://github.com/Valencinn/Checkers-AI)  
 An AI-powered checkers game built from scratch — showcasing logic, game mechanics and AI algorithms.  
 More projects coming soon as I keep learning and building.
+
+#### [UFC-API](https://github.com/Valencinn/ufc-api)  
+A FastAPI backend project demonstrating Python, MySQL, and SQLAlchemy in action.  
+Focused on learning API architecture, CRUD operations, and database-driven endpoints.
 
 ---
 
