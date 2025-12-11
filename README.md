@@ -12,7 +12,7 @@ I enjoy turning ideas into real, working projects and experimenting with both de
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,p5js,lua,python,rust,vite,jest,vitest,fastapi,figma,ps,ai,notion,git,github"/>
 </p>
 
-### Right now learning Rust
+### Right now learning Rust and Lua
 
 
 
