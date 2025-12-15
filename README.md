@@ -30,6 +30,12 @@ Focused on learning API architecture, CRUD operations, and database-driven endpo
 
 ---
 
+### 🚧 Currently Working On
+**SSG (Semi-Sarcastic Gamers)** — a Garry’s Mod server project focused on custom gameplay, Lua scripting, and community-driven features.  
+Currently in development and not yet publicly released.
+
+---
+
 ### 📫 Where to Find Me / Contact
 
 - GitHub: [Valencinn](https://github.com/Valencinn)  
