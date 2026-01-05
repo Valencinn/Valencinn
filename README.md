@@ -34,6 +34,8 @@ Focused on learning API architecture, CRUD operations, and database-driven endpo
 **SSG (Semi-Sarcastic Gamers)** — a Garry’s Mod server project focused on custom gameplay, Lua scripting, and community-driven features.  
 Currently in development and not yet publicly released.
 
+**Valen's Visual Lab** — Valen's Visual Lab is an educational website that works as a visual laboratory of algorithms. The goal is to present algorithm concepts in an interactive and visually appealing way to facilitate learning.
+
 ---
 
 ### 📫 Where to Find Me / Contact
