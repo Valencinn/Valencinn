@@ -12,7 +12,7 @@ I enjoy turning ideas into real, working projects and experimenting with both de
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,lua,python,rust,mysql,vite,jest,vitest,fastapi,figma,ps,ai,notion,git,github,vercel"/>
 </p>
 
-### Right now learning Rust and Lua
+### Right now learning Rust
 
 
 
@@ -41,7 +41,8 @@ Currently in development and not yet publicly released.
 ### 📫 Where to Find Me / Contact
 
 - GitHub: [Valencinn](https://github.com/Valencinn)  
-- LinkedIn: [My Profile](https://www.linkedin.com/in/valentinsierra/)  
+- LinkedIn: [My Profile](https://www.linkedin.com/in/valentinsierra/)
+- Portfolio [Website](https://valencinn.vercel.app/)
 - Email: valentinsierradw@gmail.com
 
 ---
