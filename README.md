@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Valentín (aka “Valencinn”)
+# 👋 Hi, I’m Valentín
 
 **`Aspiring Dev — Always Learning · Always Building`**
 
