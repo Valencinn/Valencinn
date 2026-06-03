@@ -6,11 +6,9 @@ I enjoy turning ideas into real, working projects and experimenting with both de
 
 ---
 
-## 🌐 Portfolio (In Progress 🚧)
+## 🌐 Portfolio
 
 ### 👉 [Visit My Portfolio](https://valencinn.vercel.app/)
-
-> ⚠️ This portfolio is currently under active development.
 
 ---
 
