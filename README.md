@@ -42,7 +42,7 @@ I enjoy turning ideas into real, working projects and experimenting with both de
 
 ### 🛠️ Tools & Workflow
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,notion"/>
+  <img src="https://skillicons.dev/icons?i=,github,vercel,notion"/>
 </p>
 
 ---
