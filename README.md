@@ -5,13 +5,6 @@
 I enjoy turning ideas into real, working projects and experimenting with both design and code. I’m currently expanding into backend development while continuing to improve my frontend and creative coding skills. I like building, breaking, fixing, and learning new technologies as I go.
 
 ---
-
-## 🌐 Portfolio
-
-### 👉 [Visit My Portfolio](https://valencinn.vercel.app/)
-
----
-
 ## 🧰 Tech Stack & Tools
 
 ### 💻 Languages
