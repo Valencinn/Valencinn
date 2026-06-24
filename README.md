@@ -14,12 +14,12 @@ I enjoy turning ideas into real, working projects and experimenting with both de
 
 ### ⚙️ Backend & Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi,mysql"/>
+  <img src="https://skillicons.dev/icons?i=fastapi,mysql,mongodb"/>
 </p>
 
 ### 🎨 Frontend & Design
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vite,figma,ps,ai,wordpress"/>
+  <img src="https://skillicons.dev/icons?i=vite,react,figma,ps,ai,wordpress"/>
 </p>
 
 ### 🧪 Testing
