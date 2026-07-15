@@ -29,7 +29,8 @@ I enjoy turning ideas into real, working projects and experimenting with both de
 
 ### 🤖 AI & Automation
 - Claude  
-- Codex  
+- Codex
+- Copilot
 - n8n  
 - Blackbox  
 
