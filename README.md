@@ -6,7 +6,7 @@ I specialize in software engineering, web development, UI/UX design and lua dev 
 
 Currently working as a freelance developer and being a computer technician.
 
-Right now learning how to work with different OS, big Linux enthusiast.
+Right now learning android development and LOVE2D.
 
 ---
 
