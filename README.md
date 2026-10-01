@@ -2,7 +2,7 @@ Hi! My name is Valentin Sierra, I am 20 years old located at Buenos Aires, Argen
 
 Student aiming to finish my bachelor in mid 2027. 
 
-I specialize in software engineering, web development and UI/UX design.
+I specialize in software engineering, web development, UI/UX design and lua dev for videogames.
 
 Currently working as a freelance developer and being a computer technician.
 
