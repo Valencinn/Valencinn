@@ -6,7 +6,7 @@ I specialize in software engineering, web development, UI/UX design and lua dev 
 
 Currently working as a freelance developer and being a computer technician.
 
-Right now learning GLSL.
+Right now learning Godot.
 
 ---
 
